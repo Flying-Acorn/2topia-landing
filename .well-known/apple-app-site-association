@@ -7,7 +7,8 @@
      "details": [
        {
          "paths": [
-           "/nRDk/*"
+           "/nRDk/*",
+           "*"
          ],
          "appID": "N8X52ZMF76.com.FlyingAcorn.TwoTopia"
        }
