@@ -6,11 +6,15 @@
      "apps": [],
      "details": [
        {
-         "paths": [
-           "/nRDk/*",
-           "*"
-         ],
-         "appID": "N8X52ZMF76.com.FlyingAcorn.TwoTopia"
+         "appIDs": ["N8X52ZMF76.com.FlyingAcorn.TwoTopia"],
+         "components": [
+           {
+             "/": "/nRDk/*"
+           },
+           {
+             "/": "/*"
+           }
+         ]
        }
      ]
    }
